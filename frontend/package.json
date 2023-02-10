@@ -157,6 +157,6 @@
     "src": "^1.1.2",
     "uuid": "^3.2.1",
     "xterm": "^4.7.0",
-    "xterm-addon-fit": "^0.4.0"
+    "xterm-addon-fit": "^0.7.0"
   }
 }
